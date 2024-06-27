@@ -1,5 +1,5 @@
 a!localVariables(
-  local!allData: rule!SG_TEST_DATA_CustomerInformation(),
+  local!allData: rule![SG_TEST_DATA_CustomerInformation](https://github.com/prasannaKumarLS/Split-Grid/blob/main/SG_PAGING_LayoutForEditableGrid.js)(),
   local!pagingInfo: a!pagingInfo(
     startIndex: 1,
     batchSize: 10,
