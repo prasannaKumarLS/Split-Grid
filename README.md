@@ -1,3 +1,3 @@
-Download the zip file\n
-Click Import application and upload the zip file\n
+Download the zip file<br>
+Click Import application and upload the zip file<br>
 Inspect and Import the application
